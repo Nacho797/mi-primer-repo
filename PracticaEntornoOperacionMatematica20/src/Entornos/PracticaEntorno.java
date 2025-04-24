@@ -25,6 +25,7 @@ public class PracticaEntorno {
 			switch (opc) {
 
 			case 1:
+				//Operación suma
 				System.out.println("Dime un número");
 				num1 = sc.nextInt();
 
